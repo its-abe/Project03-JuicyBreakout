@@ -7,7 +7,7 @@ Project03-JuicyBreakout
 A juicy version of the popular game Breakout
 
 ## Implementation
-Everything we had done previously (Menus, Eyes on Ball, Sounds, Border, Bounciness on Ball, Particles on Paddle, etc.)
+Everything we had done previously (Menus, Eyes on Ball, Sounds, Border, Bounciness on Ball, Particles on Paddle, Comet Trail, Brick Movement on Hit, etc.)
 AND ALSO
 Changed fonts
 Added different music to each level (speeds up in the game levels, end screen is slowed down version of opening screen)
